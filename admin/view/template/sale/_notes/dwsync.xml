@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="affiliate_form.tpl" server="103.6.196.199//public_html/" local="130776204258846361" remote="130776078000000000" Dst="0" />
+<file name="affiliate_list.tpl" server="103.6.196.199//public_html/" local="130776204258906364" remote="130776078000000000" Dst="0" />
+<file name="affiliate_transaction.tpl" server="103.6.196.199//public_html/" local="130776204260656464" remote="130776078000000000" Dst="0" />
+<file name="coupon_history.tpl" server="103.6.196.199//public_html/" local="130776204262086546" remote="130776078000000000" Dst="0" />
+<file name="contact.tpl" server="103.6.196.199//public_html/" local="130776204262676580" remote="130776078000000000" Dst="0" />
+<file name="customer_ban_ip_form.tpl" server="103.6.196.199//public_html/" local="130776204263976654" remote="130776078000000000" Dst="0" />
+<file name="coupon_form.tpl" server="103.6.196.199//public_html/" local="130776204263986655" remote="130776078000000000" Dst="0" />
+<file name="coupon_list.tpl" server="103.6.196.199//public_html/" local="130776204264156664" remote="130776078000000000" Dst="0" />
+<file name="customer_ban_ip_list.tpl" server="103.6.196.199//public_html/" local="130776204265846761" remote="130776078000000000" Dst="0" />
+<file name="customer_group_form.tpl" server="103.6.196.199//public_html/" local="130776204268856933" remote="130776078000000000" Dst="0" />
+<file name="customer_group_list.tpl" server="103.6.196.199//public_html/" local="130776204268886935" remote="130776078000000000" Dst="0" />
+<file name="customer_history.tpl" server="103.6.196.199//public_html/" local="130776204270187009" remote="130776078000000000" Dst="0" />
+<file name="customer_list.tpl" server="103.6.196.199//public_html/" local="130776204270287015" remote="130776078000000000" Dst="0" />
+<file name="customer_reward.tpl" server="103.6.196.199//public_html/" local="130776204271537086" remote="130776078000000000" Dst="0" />
+<file name="customer_transaction.tpl" server="103.6.196.199//public_html/" local="130776204271557088" remote="130776078000000000" Dst="0" />
+<file name="order_history.tpl" server="103.6.196.199//public_html/" local="130776204273097176" remote="130776078000000000" Dst="0" />
+<file name="order_form.tpl" server="103.6.196.199//public_html/" local="130776204276567374" remote="130776078000000000" Dst="0" />
+<file name="order_info.tpl" server="103.6.196.199//public_html/" local="130776204277437424" remote="130776078000000000" Dst="0" />
+<file name="order_invoice.tpl" server="103.6.196.199//public_html/" local="130776204277467426" remote="130776078000000000" Dst="0" />
+<file name="customer_form.tpl" server="103.6.196.199//public_html/" local="130776204277637435" remote="130776078000000000" Dst="0" />
+<file name="recurring_info.tpl" server="103.6.196.199//public_html/" local="130776204279287530" remote="130776078000000000" Dst="0" />
+<file name="recurring_list.tpl" server="103.6.196.199//public_html/" local="130776204279367534" remote="130776078000000000" Dst="0" />
+<file name="return_history.tpl" server="103.6.196.199//public_html/" local="130776204280817617" remote="130776078000000000" Dst="0" />
+<file name="return_form.tpl" server="103.6.196.199//public_html/" local="130776204280827618" remote="130776078000000000" Dst="0" />
+<file name="return_info.tpl" server="103.6.196.199//public_html/" local="130776204282857734" remote="130776078000000000" Dst="0" />
+<file name="return_list.tpl" server="103.6.196.199//public_html/" local="130776204282967740" remote="130776078000000000" Dst="0" />
+<file name="order_list.tpl" server="103.6.196.199//public_html/" local="130776204283047745" remote="130776078000000000" Dst="0" />
+<file name="voucher_history.tpl" server="103.6.196.199//public_html/" local="130776204285217869" remote="130776078000000000" Dst="0" />
+<file name="voucher_list.tpl" server="103.6.196.199//public_html/" local="130776204285467883" remote="130776078000000000" Dst="0" />
+<file name="voucher_theme_list.tpl" server="103.6.196.199//public_html/" local="130776204286537944" remote="130776078000000000" Dst="0" />
+<file name="voucher_theme_form.tpl" server="103.6.196.199//public_html/" local="130776204286547945" remote="130776078000000000" Dst="0" />
+<file name="voucher_form.tpl" server="103.6.196.199//public_html/" local="130776204288958083" remote="130776078000000000" Dst="0" />
+</dwsync>

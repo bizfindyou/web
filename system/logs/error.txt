@@ -1,0 +1,188 @@
+2015-08-03 10:50:49 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex2you@gmail.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 150
+2015-08-03 10:50:49 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 28
+2015-08-03 10:50:49 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 29
+2015-08-03 10:55:17 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@mooipixel.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 150
+2015-08-03 10:55:17 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 28
+2015-08-03 10:55:17 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 29
+2015-08-03 11:01:16 - PHP Warning:  fopen(D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype/download/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\admin\controller\common\home.php on line 99
+2015-08-03 11:01:16 - PHP Warning:  fclose(): supplied argument is not a valid stream resource in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\admin\controller\common\home.php on line 103
+2015-08-09 12:06:45 - PHP Notice:  Error: Table 'oc_db.oc_ms_product' doesn't exist<br />Error No: 1146<br />
+			SELECT COUNT(*) as total
+			FROM oc_product p
+			LEFT JOIN oc_ms_product mp
+				USING (product_id)
+			LEFT JOIN oc_ms_seller ms
+				USING (seller_id)
+			WHERE 1 = 1  AND status =  1 in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\database\mysql.php on line 50
+2015-08-10 12:36:16 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@mooipixel.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 150
+2015-08-10 12:41:45 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@mooipixel.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 150
+2015-08-10 13:07:33 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@mooipixel.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 150
+2015-08-10 13:07:33 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 28
+2015-08-10 13:07:33 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 29
+2015-08-10 13:10:44 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@mooipixel.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 150
+2015-08-10 13:10:45 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@mooipixel.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 150
+2015-08-10 13:12:17 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@mooipixel.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 150
+2015-08-10 13:38:51 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@mooipixel.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 150
+2015-08-10 13:43:44 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex2you@gmail.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 150
+2015-08-11 7:27:30 - PHP Notice:  Undefined variable: text_search in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\module\banner.tpl on line 10
+2015-08-11 7:27:30 - PHP Notice:  Undefined variable: search in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\module\banner.tpl on line 10
+2015-08-11 7:29:31 - PHP Notice:  Undefined variable: text_search in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\module\banner.tpl on line 10
+2015-08-11 7:29:31 - PHP Notice:  Undefined variable: search in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\module\banner.tpl on line 10
+2015-08-11 7:45:47 - PHP Notice:  Undefined variable: description in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-catalog_view_theme_client_template_module_latest.tpl on line 51
+2015-08-11 7:48:14 - PHP Notice:  Undefined variable: description in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-catalog_view_theme_client_template_module_latest.tpl on line 51
+2015-08-11 7:49:03 - PHP Notice:  Undefined variable: description in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\module\latest.php on line 51
+2015-08-11 7:49:03 - PHP Notice:  Undefined variable: description in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\module\latest.php on line 51
+2015-08-11 7:49:03 - PHP Notice:  Undefined variable: description in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-catalog_view_theme_client_template_module_latest.tpl on line 51
+2015-08-11 7:50:12 - PHP Notice:  Undefined variable: description in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-catalog_view_theme_client_template_module_latest.tpl on line 51
+2015-08-11 8:38:20 - PHP Notice:  Undefined variable: product in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-catalog_view_theme_client_template_product_product.tpl on line 45
+2015-08-11 9:40:38 - PHP Notice:  Error: MAIL FROM not accepted from server! in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 290
+2015-08-11 9:45:19 - PHP Notice:  Error: MAIL FROM not accepted from server! in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 291
+2015-08-11 9:48:11 - PHP Notice:  Error: MAIL FROM not accepted from server! in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 291
+2015-08-11 9:48:58 - PHP Notice:  Error: MAIL FROM not accepted from server! in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 291
+2015-08-11 9:51:48 - PHP Notice:  Error: MAIL FROM not accepted from server! in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 291
+2015-08-11 9:54:39 - PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: No such host is known.  in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 154
+2015-08-11 9:54:39 - PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to smtp.bizfindyou.com:587 (php_network_getaddresses: getaddrinfo failed: No such host is known. ) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 154
+2015-08-11 9:54:39 - PHP Notice:  Error: php_network_getaddresses: getaddrinfo failed: No such host is known.  (0) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 157
+2015-08-11 9:55:35 - PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: No such host is known.  in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 154
+2015-08-11 9:55:35 - PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to smtp.bizfindyou.com:25 (php_network_getaddresses: getaddrinfo failed: No such host is known. ) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 154
+2015-08-11 9:55:35 - PHP Notice:  Error: php_network_getaddresses: getaddrinfo failed: No such host is known.  (0) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 157
+2015-08-11 9:56:16 - PHP Notice:  Error: Password not accepted from server! in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 252
+2015-08-11 9:57:58 - PHP Notice:  Error: Password not accepted from server! in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 252
+2015-08-11 9:59:14 - PHP Notice:  Error: Password not accepted from server! in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 252
+2015-08-11 10:00:58 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@octivagear.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 151
+2015-08-11 10:00:58 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 28
+2015-08-11 10:00:58 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 29
+2015-08-11 10:09:44 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@octivagear.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 151
+2015-08-11 10:09:44 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 28
+2015-08-11 10:09:44 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 29
+2015-08-11 10:11:29 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@octivagear.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 151
+2015-08-11 10:11:29 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 28
+2015-08-11 10:11:29 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 29
+2015-08-11 10:16:35 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@octivagear.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 151
+2015-08-11 10:16:35 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 28
+2015-08-11 10:16:35 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 29
+2015-08-11 10:17:43 - PHP Notice:  Error: Password not accepted from server! in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 252
+2015-08-11 10:24:15 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@octivagear.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 153
+2015-08-11 10:24:15 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 28
+2015-08-11 10:24:15 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 29
+2015-08-11 10:26:07 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 &lt;alex@octivagear.com&gt; No such user here in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 153
+2015-08-11 10:26:07 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 28
+2015-08-11 10:26:07 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\index.php:106) in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-system_engine_controller.php on line 29
+2015-08-11 10:42:15 - PHP Notice:  Undefined variable: register in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-catalog_view_theme_client_template_common_header.tpl on line 140
+2015-08-11 10:42:26 - PHP Notice:  Undefined variable: register in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\vqmod\vqcache\vq2-catalog_view_theme_client_template_common_header.tpl on line 140
+2015-08-11 10:50:33 - PHP Notice:  Undefined variable: text_search in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\module\banner.tpl on line 17
+2015-08-11 11:22:49 - PHP Notice:  Undefined variable: search in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\module\banner.tpl on line 11
+2015-08-11 11:40:05 - PHP Notice:  Undefined variable: list_until in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-product-form.tpl on line 19
+2015-08-11 11:40:44 - PHP Notice:  Undefined variable: list_until in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-product-form.tpl on line 19
+2015-08-11 11:41:11 - PHP Notice:  Undefined variable: list_until in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-product-form.tpl on line 19
+2015-08-11 11:42:13 - PHP Notice:  Undefined variable: list_until in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-product-form.tpl on line 19
+2015-08-11 11:44:48 - PHP Notice:  Undefined variable: list_until in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-product-form.tpl on line 19
+2015-08-11 11:49:25 - PHP Notice:  Undefined variable: list_until in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-product-form.tpl on line 19
+2015-08-11 14:41:54 - PHP Notice:  Error: MAIL FROM not accepted from server! in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\system\library\mail.php on line 293
+2015-08-11 16:34:37 - PHP Notice:  Undefined index:  zone in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 53
+2015-08-11 16:39:42 - PHP Notice:  Undefined index:  zone in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 31
+2015-08-11 16:40:54 - PHP Notice:  Undefined index:  country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 31
+2015-08-11 16:42:19 - PHP Notice:  Undefined index:  ms.country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 31
+2015-08-11 16:42:19 - PHP Notice:  Undefined index:  ms.country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 53
+2015-08-11 16:43:45 - PHP Notice:  Undefined index:  ms.zone in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 31
+2015-08-11 16:43:46 - PHP Notice:  Undefined index:  ms.country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 53
+2015-08-11 16:59:08 - PHP Notice:  Undefined index:  zone in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 31
+2015-08-11 16:59:38 - PHP Notice:  Undefined index:  ms.zone in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 31
+2015-08-11 16:59:39 - PHP Notice:  Undefined index:  ms.zone in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 52
+2015-08-11 17:00:22 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 31
+2015-08-11 17:00:23 - PHP Notice:  Undefined variable: account in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 52
+2015-08-11 17:00:36 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 31
+2015-08-11 17:00:37 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 52
+2015-08-11 17:03:37 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 52
+2015-08-11 17:04:46 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 23
+2015-08-11 17:04:46 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 24
+2015-08-11 17:04:46 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 25
+2015-08-11 17:04:46 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 26
+2015-08-11 17:04:46 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 27
+2015-08-11 17:04:46 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 28
+2015-08-11 17:04:46 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 29
+2015-08-11 17:04:46 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 30
+2015-08-11 17:04:46 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 31
+2015-08-11 17:04:46 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 32
+2015-08-11 17:04:47 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 52
+2015-08-11 17:05:00 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 52
+2015-08-11 17:13:35 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 33
+2015-08-11 17:13:53 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 33
+2015-08-11 17:15:42 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 33
+2015-08-11 17:15:43 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 158
+2015-08-11 17:20:50 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 42
+2015-08-11 17:20:50 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 43
+2015-08-11 17:20:50 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 44
+2015-08-11 17:23:39 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 42
+2015-08-11 17:23:51 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 42
+2015-08-11 17:25:51 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 33
+2015-08-11 17:25:51 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 17:26:18 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 33
+2015-08-11 17:26:18 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 17:26:34 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 33
+2015-08-11 17:26:34 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 17:32:30 - PHP Notice:  Undefined variable: email in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:32:30 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 17:35:25 - PHP Notice:  Undefined variable: email in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:35:25 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 17:39:42 - PHP Notice:  Undefined variable: email in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:39:42 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 17:41:20 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:41:20 - PHP Notice:  Undefined variable: address in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 17:41:45 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:41:45 - PHP Notice:  Undefined index:  country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 17:41:57 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:41:57 - PHP Notice:  Undefined index:  country_id in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 17:43:30 - PHP Notice:  Undefined index:  country_id in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 32
+2015-08-11 17:43:30 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:43:50 - PHP Notice:  Undefined index:  zone in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 32
+2015-08-11 17:43:51 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:44:19 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:44:19 - PHP Notice:  Undefined index:  country_id in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 17:47:24 - PHP Notice:  Undefined variable: results in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 17
+2015-08-11 17:47:24 - PHP Warning:  Invalid argument supplied for foreach() in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 17
+2015-08-11 17:47:25 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:48:39 - PHP Notice:  Undefined variable: data in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 16
+2015-08-11 17:48:39 - PHP Notice:  Undefined variable: image in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 20
+2015-08-11 17:48:39 - PHP Notice:  Undefined variable: price in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 23
+2015-08-11 17:48:39 - PHP Notice:  Undefined variable: special in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 24
+2015-08-11 17:48:39 - PHP Notice:  Undefined variable: tax in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 25
+2015-08-11 17:48:39 - PHP Notice:  Undefined index:  path in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 28
+2015-08-11 17:48:39 - PHP Notice:  Undefined variable: url in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 28
+2015-08-11 17:48:39 - PHP Notice:  Undefined variable: image in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 20
+2015-08-11 17:48:39 - PHP Notice:  Undefined variable: price in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 23
+2015-08-11 17:48:39 - PHP Notice:  Undefined variable: special in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 24
+2015-08-11 17:48:39 - PHP Notice:  Undefined variable: tax in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 25
+2015-08-11 17:48:39 - PHP Notice:  Undefined index:  path in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 28
+2015-08-11 17:48:39 - PHP Notice:  Undefined variable: url in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 28
+2015-08-11 17:48:39 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:48:56 - PHP Notice:  Undefined variable: data in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 16
+2015-08-11 17:48:57 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:49:48 - PHP Notice:  Undefined variable: data in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 16
+2015-08-11 17:49:48 - PHP Notice:  Undefined variable: result in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 18
+2015-08-11 17:49:49 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:51:36 - PHP Notice:  Undefined variable: data in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 16
+2015-08-11 17:51:36 - PHP Notice:  Undefined index:  email in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 18
+2015-08-11 17:51:36 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:52:19 - PHP Notice:  Undefined variable: customer in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:53:02 - PHP Notice:  Undefined index:  email in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:53:44 - PHP Notice:  Undefined index:  email in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 17:59:16 - PHP Notice:  Undefined variable: seller in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 20
+2015-08-11 18:00:11 - PHP Notice:  Undefined variable: seller in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 20
+2015-08-11 18:00:42 - PHP Notice:  Undefined variable: seller in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 20
+2015-08-11 18:00:42 - PHP Notice:  Undefined index:  ms.zone in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 18:00:56 - PHP Notice:  Undefined variable: seller in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 20
+2015-08-11 18:01:51 - PHP Notice:  Undefined variable: seller in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 20
+2015-08-11 18:01:52 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 18:01:52 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 18:01:52 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 18:02:53 - PHP Notice:  Undefined variable: seller in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 20
+2015-08-11 18:02:53 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 18:02:53 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 18:02:53 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107
+2015-08-11 18:04:59 - PHP Notice:  Undefined variable: seller in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 20
+2015-08-11 18:04:59 - PHP Notice:  Undefined variable: countries in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 109
+2015-08-11 18:04:59 - PHP Warning:  Invalid argument supplied for foreach() in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 109
+2015-08-11 18:08:15 - PHP Notice:  Undefined variable: seller in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\controller\seller\account-dashboard.php on line 20
+2015-08-11 18:08:31 - PHP Notice:  Undefined variable: customer_data in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 87
+2015-08-11 18:12:42 - PHP Notice:  Undefined variable: country in D:\Inetpub\vhosts\bizfindyou.com\httpdocs\prototype\catalog\view\theme\client\template\multiseller\account-dashboard.tpl on line 107

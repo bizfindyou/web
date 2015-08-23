@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="cart.tpl" server="103.6.196.199//public_html/" local="130776244519929163" remote="130776079200000000" Dst="0" />
+<file name="checkout.tpl" server="103.6.196.199//public_html/" local="130776244527249582" remote="130776079200000000" Dst="0" />
+<file name="confirm.tpl" server="103.6.196.199//public_html/" local="130776244529389704" remote="130776079200000000" Dst="0" />
+<file name="guest_shipping.tpl" server="103.6.196.199//public_html/" local="130776244530799785" remote="130776079200000000" Dst="0" />
+<file name="login.tpl" server="103.6.196.199//public_html/" local="130776244539500282" remote="130776079200000000" Dst="0" />
+<file name="guest.tpl" server="103.6.196.199//public_html/" local="130776244540950365" remote="130776079200000000" Dst="0" />
+<file name="payment_address.tpl" server="103.6.196.199//public_html/" local="130776244540950365" remote="130776079200000000" Dst="0" />
+<file name="payment_method.tpl" server="103.6.196.199//public_html/" local="130776244541060371" remote="130776079200000000" Dst="0" />
+<file name="register.tpl" server="103.6.196.199//public_html/" local="130776244542800471" remote="130776079200000000" Dst="0" />
+<file name="shipping_method.tpl" server="103.6.196.199//public_html/" local="130776244542830473" remote="130776079200000000" Dst="0" />
+<file name="shipping_address.tpl" server="103.6.196.199//public_html/" local="130776244550640919" remote="130776079200000000" Dst="0" />
+</dwsync>

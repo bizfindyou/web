@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="amazon_checkout.tpl" server="103.6.196.199//public_html/" local="130776204214513825" remote="130776078000000000" Dst="0" />
+<file name="amazon_checkout_order.tpl" server="103.6.196.199//public_html/" local="130776204214513825" remote="130776078000000000" Dst="0" />
+<file name="authorizenet_aim.tpl" server="103.6.196.199//public_html/" local="130776204214573828" remote="130776078000000000" Dst="0" />
+<file name="authorizenet_sim.tpl" server="103.6.196.199//public_html/" local="130776204216683949" remote="130776078000000000" Dst="0" />
+<file name="bank_transfer.tpl" server="103.6.196.199//public_html/" local="130776204216703950" remote="130776078000000000" Dst="0" />
+<file name="cheque.tpl" server="103.6.196.199//public_html/" local="130776204216783955" remote="130776078000000000" Dst="0" />
+<file name="cod.tpl" server="103.6.196.199//public_html/" local="130776204218494053" remote="130776078000000000" Dst="0" />
+<file name="debug.log" server="103.6.196.199//public_html/" local="130776204218504053" remote="130776078000000000" Dst="0" />
+<file name="free_checkout.tpl" server="103.6.196.199//public_html/" local="130776204218524054" remote="130776078000000000" Dst="0" />
+<file name="google_checkout.tpl" server="103.6.196.199//public_html/" local="130776204220314157" remote="130776078000000000" Dst="0" />
+<file name="klarna_account.tpl" server="103.6.196.199//public_html/" local="130776204220334158" remote="130776078000000000" Dst="0" />
+<file name="klarna_invoice.tpl" server="103.6.196.199//public_html/" local="130776204220404162" remote="130776078000000000" Dst="0" />
+<file name="liqpay.tpl" server="103.6.196.199//public_html/" local="130776204223704351" remote="130776078000000000" Dst="0" />
+<file name="nochex.tpl" server="103.6.196.199//public_html/" local="130776204223774355" remote="130776078000000000" Dst="0" />
+<file name="moneybookers.tpl" server="103.6.196.199//public_html/" local="130776204225164434" remote="130776078000000000" Dst="0" />
+<file name="paymate.tpl" server="103.6.196.199//public_html/" local="130776204225184435" remote="130776078000000000" Dst="0" />
+<file name="paypoint.tpl" server="103.6.196.199//public_html/" local="130776204225194436" remote="130776078000000000" Dst="0" />
+<file name="payza.tpl" server="103.6.196.199//public_html/" local="130776204226974538" remote="130776078000000000" Dst="0" />
+<file name="perpetual_payments.tpl" server="103.6.196.199//public_html/" local="130776204226994539" remote="130776078000000000" Dst="0" />
+<file name="pp_express.tpl" server="103.6.196.199//public_html/" local="130776204228394619" remote="130776078000000000" Dst="0" />
+<file name="pp_express_order.tpl" server="103.6.196.199//public_html/" local="130776204228394619" remote="130776078000000000" Dst="0" />
+<file name="pp_express_refund.tpl" server="103.6.196.199//public_html/" local="130776204228424621" remote="130776078000000000" Dst="0" />
+<file name="pp_express_search.tpl" server="103.6.196.199//public_html/" local="130776204231134776" remote="130776078000000000" Dst="0" />
+<file name="pp_express_view.tpl" server="103.6.196.199//public_html/" local="130776204231134776" remote="130776078000000000" Dst="0" />
+<file name="pp_payflow_iframe.tpl" server="103.6.196.199//public_html/" local="130776204234084944" remote="130776078000000000" Dst="0" />
+<file name="pp_payflow_iframe_order.tpl" server="103.6.196.199//public_html/" local="130776204236115060" remote="130776078000000000" Dst="0" />
+<file name="pp_payflow_iframe_refund.tpl" server="103.6.196.199//public_html/" local="130776204236115060" remote="130776078000000000" Dst="0" />
+<file name="pp_pro.tpl" server="103.6.196.199//public_html/" local="130776204236165063" remote="130776078000000000" Dst="0" />
+<file name="pp_pro_iframe_order.tpl" server="103.6.196.199//public_html/" local="130776204239865275" remote="130776078000000000" Dst="0" />
+<file name="pp_pro_iframe_refund.tpl" server="103.6.196.199//public_html/" local="130776204239885276" remote="130776078000000000" Dst="0" />
+<file name="pp_pro_iframe_transaction.tpl" server="103.6.196.199//public_html/" local="130776204241225353" remote="130776078000000000" Dst="0" />
+<file name="pp_pro_pf.tpl" server="103.6.196.199//public_html/" local="130776204241275356" remote="130776078000000000" Dst="0" />
+<file name="pp_pro_uk.tpl" server="103.6.196.199//public_html/" local="130776204243495483" remote="130776078000000000" Dst="0" />
+<file name="pp_standard.tpl" server="103.6.196.199//public_html/" local="130776204243575487" remote="130776078000000000" Dst="0" />
+<file name="sagepay.tpl" server="103.6.196.199//public_html/" local="130776204244905563" remote="130776078000000000" Dst="0" />
+<file name="pp_pro_iframe.tpl" server="103.6.196.199//public_html/" local="130776204245755612" remote="130776078000000000" Dst="0" />
+<file name="sagepay_us.tpl" server="103.6.196.199//public_html/" local="130776204245805615" remote="130776078000000000" Dst="0" />
+<file name="sagepay_direct.tpl" server="103.6.196.199//public_html/" local="130776204248205752" remote="130776078000000000" Dst="0" />
+<file name="twocheckout.tpl" server="103.6.196.199//public_html/" local="130776204248225753" remote="130776078000000000" Dst="0" />
+<file name="worldpay.tpl" server="103.6.196.199//public_html/" local="130776204249525828" remote="130776078000000000" Dst="0" />
+<file name="web_payment_software.tpl" server="103.6.196.199//public_html/" local="130776204253396049" remote="130776078000000000" Dst="0" />
+</dwsync>

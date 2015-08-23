@@ -1,0 +1,75 @@
+@import url(http://fonts.googleapis.com/css?family=Fredericka+the+Great);
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('fonts/HelveticaNeue.eot');
+    src: url('fonts/HelveticaNeue.eot?#iefix') format('embedded-opentype'),
+         url('fonts/HelveticaNeue.woff') format('woff'),
+         url('fonts/HelveticaNeue.ttf') format('truetype'),
+         url('fonts/HelveticaNeue.svg#dubielitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'texgyreadventorbold_italic';
+    src: url('fonts/texgyreadventor-bolditalic-webfont.eot');
+    src: url('fonts/texgyreadventor-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/texgyreadventor-bolditalic-webfont.woff') format('woff'),
+         url('fonts/texgyreadventor-bolditalic-webfont.ttf') format('truetype'),
+         url('fonts/texgyreadventor-bolditalic-webfont.svg#texgyreadventorbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'texgyreadventoritalic';
+    src: url('fonts/texgyreadventor-italic-webfont.eot');
+    src: url('fonts/texgyreadventor-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/texgyreadventor-italic-webfont.woff') format('woff'),
+         url('fonts/texgyreadventor-italic-webfont.ttf') format('truetype'),
+         url('fonts/texgyreadventor-italic-webfont.svg#texgyreadventoritalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'texgyreadventorregular';
+    src: url('fonts/texgyreadventor-regular-webfont.eot');
+    src: url('fonts/texgyreadventor-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/texgyreadventor-regular-webfont.woff') format('woff'),
+         url('fonts/texgyreadventor-regular-webfont.ttf') format('truetype'),
+         url('fonts/texgyreadventor-regular-webfont.svg#texgyreadventorregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelveticaLightCondensed';
+    src: url('fonts/helvetica-condensed-light-webfont.eot');
+    src: url('fonts/helvetica-condensed-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/helvetica-condensed-light-webfont.woff') format('woff'),
+         url('fonts/helvetica-condensed-light-webfont.ttf') format('truetype'),
+         url('fonts/helvetica-condensed-light-webfont.svg#helveticalight_condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'HelveticaCondensedRegular';
+    src: url('fonts/helvetica_condensed-webfont.eot');
+    src: url('fonts/helvetica_condensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/helvetica_condensed-webfont.woff') format('woff'),
+         url('fonts/helvetica_condensed-webfont.ttf') format('truetype'),
+         url('fonts/helvetica_condensed-webfont.svg#helvetica_condensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'HelveticaNeueMediumCondensed';
+    src: url('fonts/helveneumedcon.bin-webfont.eot');
+    src: url('fonts/helveneumedcon.bin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/helveneumedcon.bin-webfont.woff') format('woff'),
+         url('fonts/helveneumedcon.bin-webfont.ttf') format('truetype'),
+         url('fonts/helveneumedcon.bin-webfont.svg#helvetica_neuemediumcond') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

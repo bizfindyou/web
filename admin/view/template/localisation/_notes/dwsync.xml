@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="country_form.tpl" server="103.6.196.199//public_html/" local="130776204124778692" remote="130776078000000000" Dst="0" />
+<file name="country_list.tpl" server="103.6.196.199//public_html/" local="130776204126708803" remote="130776078000000000" Dst="0" />
+<file name="currency_form.tpl" server="103.6.196.199//public_html/" local="130776204126718803" remote="130776078000000000" Dst="0" />
+<file name="currency_list.tpl" server="103.6.196.199//public_html/" local="130776204126738804" remote="130776078000000000" Dst="0" />
+<file name="geo_zone_list.tpl" server="103.6.196.199//public_html/" local="130776204129188945" remote="130776078000000000" Dst="0" />
+<file name="geo_zone_form.tpl" server="103.6.196.199//public_html/" local="130776204129198945" remote="130776078000000000" Dst="0" />
+<file name="language_form.tpl" server="103.6.196.199//public_html/" local="130776204129208946" remote="130776078000000000" Dst="0" />
+<file name="language_list.tpl" server="103.6.196.199//public_html/" local="130776204131269064" remote="130776078000000000" Dst="0" />
+<file name="length_class_form.tpl" server="103.6.196.199//public_html/" local="130776204133209175" remote="130776078000000000" Dst="0" />
+<file name="length_class_list.tpl" server="103.6.196.199//public_html/" local="130776204134509249" remote="130776078000000000" Dst="0" />
+<file name="measurement_class_form.tpl" server="103.6.196.199//public_html/" local="130776204134519250" remote="130776078000000000" Dst="0" />
+<file name="measurement_class_list.tpl" server="103.6.196.199//public_html/" local="130776204134579253" remote="130776078000000000" Dst="0" />
+<file name="order_status_form.tpl" server="103.6.196.199//public_html/" local="130776204136499363" remote="130776078000000000" Dst="0" />
+<file name="order_status_list.tpl" server="103.6.196.199//public_html/" local="130776204136509363" remote="130776078000000000" Dst="0" />
+<file name="return_action_form.tpl" server="103.6.196.199//public_html/" local="130776204136529364" remote="130776078000000000" Dst="0" />
+<file name="return_action_list.tpl" server="103.6.196.199//public_html/" local="130776204139299523" remote="130776078000000000" Dst="0" />
+<file name="return_reason_form.tpl" server="103.6.196.199//public_html/" local="130776204139299523" remote="130776078000000000" Dst="0" />
+<file name="return_reason_list.tpl" server="103.6.196.199//public_html/" local="130776204139319524" remote="130776078000000000" Dst="0" />
+<file name="return_status_form.tpl" server="103.6.196.199//public_html/" local="130776204142229691" remote="130776078000000000" Dst="0" />
+<file name="return_status_list.tpl" server="103.6.196.199//public_html/" local="130776204142239691" remote="130776078000000000" Dst="0" />
+<file name="stock_status_form.tpl" server="103.6.196.199//public_html/" local="130776204142249692" remote="130776078000000000" Dst="0" />
+<file name="stock_status_list.tpl" server="103.6.196.199//public_html/" local="130776204144049795" remote="130776078000000000" Dst="0" />
+<file name="tax_class_form.tpl" server="103.6.196.199//public_html/" local="130776204144049795" remote="130776078000000000" Dst="0" />
+<file name="tax_class_list.tpl" server="103.6.196.199//public_html/" local="130776204144069796" remote="130776078000000000" Dst="0" />
+<file name="weight_class_form.tpl" server="103.6.196.199//public_html/" local="130776204146519936" remote="130776078000000000" Dst="0" />
+<file name="weight_class_list.tpl" server="103.6.196.199//public_html/" local="130776204148910073" remote="130776078000000000" Dst="0" />
+<file name="tax_rate_form.tpl" server="103.6.196.199//public_html/" local="130776204150120142" remote="130776078000000000" Dst="0" />
+<file name="tax_rate_list.tpl" server="103.6.196.199//public_html/" local="130776204151680231" remote="130776078000000000" Dst="0" />
+<file name="zone_list.tpl" server="103.6.196.199//public_html/" local="130776204151690232" remote="130776078000000000" Dst="0" />
+<file name="zone_form.tpl" server="103.6.196.199//public_html/" local="130776204151700232" remote="130776078000000000" Dst="0" />
+</dwsync>
